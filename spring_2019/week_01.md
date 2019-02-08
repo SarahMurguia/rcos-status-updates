@@ -1,24 +1,20 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This part week, I learned how to partition my drive and installed linux as a dual boot on my computer. I \
+> installed docker and got yacs running on my computer. I began the angular tutuorial and ran into some \
+> permissions issues on my computer. I fixed this by starting the tutorial in another location.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> After my accomplishments from last week, I plan to finish the angular tutorial. Once I finish the tutorial \
+> I plan on finding my first issue and contributing to yacs.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> I don't have any blockers yet.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> NA
