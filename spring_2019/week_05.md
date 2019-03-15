@@ -9,7 +9,7 @@
 > where we add a notificiation signaling the status of the class but this issue was 30% backend. I decided not \
 > to work on that issue because I wanted to get a better grasp of front end before looking into the backend.\
 > I am now working on issue 405 where I'll be notifiying a user when they select a course that conflicts with \
-> another or is full.\
+> another or is full.
 
 ## This Week's Plan
 
